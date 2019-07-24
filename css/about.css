@@ -1,0 +1,11 @@
+    .body {
+    font-family: 'Opens Sans', sans-serif;
+    background-color: white;
+
+}
+
+    .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
