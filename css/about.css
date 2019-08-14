@@ -1,11 +1,30 @@
-    .body {
+.body {
     font-family: 'Opens Sans', sans-serif;
-    background-color: white;
-
+    background-color: rgb(169,169,169);
 }
 
-    .center {
+.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    }
+}
+
+h1 {
+    text-align: center;
+}
+
+.content-container {
+    position: absolute;
+    top: 56px;
+}
+
+.content-container img {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.navbar {
+    background: rgb(0,0,160);
+}
